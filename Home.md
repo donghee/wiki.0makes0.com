@@ -18,8 +18,8 @@
 | git diff | Show file differences that haven't been staged |
 
 
-https://wiki.makes0.com/docx/book.docx
-https://wiki.makes0.com/epub/book.epub
-https://wiki.makes0.com/pdf/book.pdf
+https://wiki.makes0.com/docx/book.docx 워드 버전 
+https://wiki.makes0.com/epub/book.epub 전자책 epub 버전 
+https://wiki.makes0.com/pdf/book.pdf pdf 버전 
 
  
