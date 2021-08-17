@@ -17,4 +17,9 @@
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
 
+
+https://wiki.makes0.com/docx/book.docx
+https://wiki.makes0.com/epub/book.epub
+https://wiki.makes0.com/pdf/book.pdf
+
  
