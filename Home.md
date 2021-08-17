@@ -9,3 +9,5 @@
 ![둥실](https://i.imgur.com/nfiQful.png)
 ![두둥](https://i.imgur.com/ADO45gK.png)
 ![노랭](https://i.imgur.com/JkaXlvT.png)
+
+![업로드테스트](/uploads/20170420_crash_from_battery_level.png)
