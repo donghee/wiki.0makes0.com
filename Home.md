@@ -5,5 +5,7 @@
 이 사이트는 태양열 서버 ~~~ 뫄뫄뫄뫄~~~~~~~ 탄소발자국 데이터 센터~~~~~ 뫄뫄뫄~~~~~인터넷 적당히 해라~~~~~
 
 + 위키 수정/추가 방법 소개
-+ 
+
 ![둥실](https://i.imgur.com/nfiQful.png)
+![두둥](https://i.imgur.com/ADO45gK.png)
+![노랭](https://i.imgur.com/JkaXlvT.png)
