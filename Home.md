@@ -17,10 +17,9 @@
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
-
 | ![그림설명](./uploads/photo6257982176402451382.jpg) | ![노랭아건강하자](./uploads/photo6260392211401255721.jpg) |
 
-| 명령 | 설명 |
+
 
 * https://wiki.0makes0.com/docx/book.docx 워드 버전 
 * https://wiki.0makes0.com/epub/book.epub 전자책 epub 버전 
