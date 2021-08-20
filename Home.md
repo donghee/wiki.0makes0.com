@@ -24,7 +24,8 @@
 * https://wiki.0makes0.com/docx/book.docx 워드 버전 
 * https://wiki.0makes0.com/epub/book.epub 전자책 epub 버전 
 * https://wiki.0makes0.com/pdf/book.pdf pdf 버전 
- 
+* https://wiki.0makes0.com/book 웹페이지 버전(읽기전용)
+
 ## footnote
 
 <span id="fn1"></span> 태양광 풋노트 
