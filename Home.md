@@ -6,6 +6,8 @@
 
 + 위키 수정/추가 방법 소개
 
+:grinning:
+
 ![둥실](https://i.imgur.com/nfiQful.png)
 ![두둥](https://i.imgur.com/ADO45gK.png)
 ![노랭](https://i.imgur.com/JkaXlvT.png)
