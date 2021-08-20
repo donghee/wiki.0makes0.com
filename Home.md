@@ -10,8 +10,7 @@
 ![둥실](https://i.imgur.com/nfiQful.png)
 ![두둥](https://i.imgur.com/ADO45gK.png)
 ![노랭](https://i.imgur.com/JkaXlvT.png)
-
-![업로드테스트](./uploads/20170420_crash_from_battery_level.png)
+ 
 ![그림설명](./uploads/photo6257982176402451382.jpg)
 ![노랭아건강하자](./uploads/photo6260392211401255721.jpg)
 
