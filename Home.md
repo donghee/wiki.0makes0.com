@@ -26,9 +26,8 @@
 * https://wiki.0makes0.com/pdf/book.pdf pdf 버전 
 * https://wiki.0makes0.com/book 웹페이지 버전(읽기전용)
 
-
 [작품포장](작품포장)
-
+[부록](부록)
 
 ## footnote
 
