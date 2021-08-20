@@ -2,11 +2,10 @@
 
 사이트를 방문해주신 분들은 누구든지 비거니즘 전시 매뉴얼 위키를 수정/추가할 수 있습니다.
 
-이 사이트는 태양열 서버 ~~~ 뫄뫄뫄뫄~~~~~~~ 탄소발자국 데이터 센터~~~~~ 뫄뫄뫄~~~~~인터넷 적당히 해라~~~~~
+이 사이트는 태양열[<sup id="footnote-solar">1</sup>](#fn1). 서버 ~~~ 뫄뫄뫄뫄~~~~~~~ 탄소발자국 데이터 센터~~~~~ 뫄뫄뫄~~~~~인터넷 적당히 해라~~~~~
 
 + 위키 수정/추가 방법 소개
-
-:grinning:
+ 
 
 ![둥실](https://i.imgur.com/nfiQful.png)
 ![두둥](https://i.imgur.com/ADO45gK.png)
@@ -26,4 +25,6 @@
 * https://wiki.0makes0.com/epub/book.epub 전자책 epub 버전 
 * https://wiki.0makes0.com/pdf/book.pdf pdf 버전 
  
- 
+## footnote
+
+<span id="fn1"></span> 태양광 풋노트 
