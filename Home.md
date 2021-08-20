@@ -12,7 +12,7 @@
 
 ![업로드테스트](./uploads/20170420_crash_from_battery_level.png)
 
-| Command | Description |
+| 명령 | 설명 |
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
