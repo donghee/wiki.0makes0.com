@@ -1,4 +1,3 @@
-
 * [작품포장](작품포장)
 * [부록](부록)
 * [전시 운영](전시운영)
@@ -20,4 +19,4 @@
 * https://wiki.0makes0.com/pdf/book.pdf pdf 버전 
 * https://wiki.0makes0.com/book Gitbook 형식
 * https://wiki.0makes0.com/html/book.html 웹페이지 버전
-***
+ 
