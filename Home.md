@@ -13,23 +13,7 @@
 * 표에 대해서 셀 병합을 하려면 마크다운(?) 으로는 안된다고 하더라구요. 일단 마크다운형식으로 할수 있는 한 해봤습니다. 하고 나니 HTML형식으로 적어야 한다면 두번 일을 하게 되는 건가..고민 ㅠㅠ
 * 넘버링은 찾아보니까 그냥 1,2,3 이렇게 쓰면 된다는 것 같은데 뭘 잘못했는지 계속 1,1,1 이렇게 넘어가는데, 혹시 넘버링 하는 것 알려주시면 헤더랑 같이 정리해두겠습니다. 
 
-
-
-
-![둥실](https://i.imgur.com/nfiQful.png)
-![두둥](https://i.imgur.com/ADO45gK.png)
-![노랭](https://i.imgur.com/JkaXlvT.png)
  
-![그림설명](./uploads/photo6257982176402451382.jpg) ![노랭아건강하자](./uploads/photo6260392211401255721.jpg)
-
-| 명령 | 설명 |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-| ![그림설명](./uploads/photo6257982176402451382.jpg) | ![노랭아건강하자](./uploads/photo6260392211401255721.jpg) |
-
-
-
 * https://wiki.0makes0.com/docx/book.docx 워드 버전 
 * https://wiki.0makes0.com/epub/book.epub 전자책 epub 버전 
 * https://wiki.0makes0.com/pdf/book.pdf pdf 버전 
