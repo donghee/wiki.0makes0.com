@@ -18,7 +18,7 @@
 ## 지원
  - 이 페이지는 아르코에서 지원 
 
-[[https://0makes0.com/images/arko.png]]
+![](https://0makes0.com/images/arko.png)
 
 ---
 📌 연구원 질문 및 요청사항 
