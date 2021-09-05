@@ -16,11 +16,7 @@
 * [부록](부록)
 
 ## 지원
- - 이 페이지는 아르코에서 지원 
-
-![](https://0makes0.com/images/arko.png)  
-
-
+ - ![](https://0makes0.com/images/arko.png)  
  - <a href="https://0makes0.com"><img width=150 src="https://0makes0.com/images/zeromakeszero-logo.svg"></a>
  
 ---
