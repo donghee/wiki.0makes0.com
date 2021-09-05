@@ -18,11 +18,15 @@
 ## 지원
  - 이 페이지는 아르코에서 지원 
 
-![](https://0makes0.com/images/arko.png)  <img width=150 src="https://0makes0.com/images/zeromakeszero-logo.svg">
+![](https://0makes0.com/images/arko.png)  
+
+
+ - 제로의 예술
+<img width=150 src="https://0makes0.com/images/zeromakeszero-logo.svg">
 
 ![](https://wiki.0makes0.com/uploads/0makes0_googleform_header.jpeg)
+![](/uploads/0makes0_newsletter_header.jpg)
 
-![](/uploads/0makes0_newsletter_header.jpg )
 ---
 📌 연구원 질문 및 요청사항 
 * 홍보-디자인 / 부록  비매 최종 원고 내용으로 수정했습니다. 이미지 원본을 제가 가지고 있지 않은 것은 워드 상의 이미지를 올렸어요. 때문인지 부록 내재에너지 부분 해상도가 상당히 깨지네요 😂
