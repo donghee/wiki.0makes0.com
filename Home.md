@@ -20,13 +20,15 @@
 * [부록](부록)
 
 ## 지원
- - ![](https://0makes0.com/images/arko.png)  
- - <a href="https://0makes0.com"><img width=150 src="https://0makes0.com/images/zeromakeszero-logo.svg"></a> 
+
  - 기획: 제로의 예술 (강민형, 김화용, 전유진)
  - 제작: 비거니즘 전시 매뉴얼 팀 (김화용, 남선우, 박태인, 여혜진, 이규동, 이목화)
  - 웹 및 서버 개발 : 은파산업 (박동희)
  - 배너 디자인 : 어라우드랩 
-  
+
+ 
+ - ![](https://0makes0.com/images/arko.png)  
+ - <a href="https://0makes0.com"><img width=150 src="https://0makes0.com/images/zeromakeszero-logo.svg"></a> 
 
 ***
 * https://wiki.0makes0.com/docx/book.docx 워드 버전 
