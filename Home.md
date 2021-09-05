@@ -21,8 +21,7 @@
 ![](https://0makes0.com/images/arko.png)  
 
 
- - 제로의 예술
-<img width=150 src="https://0makes0.com/images/zeromakeszero-logo.svg">
+ - <img width=150 src="https://0makes0.com/images/zeromakeszero-logo.svg">
  
 ---
 📌 연구원 질문 및 요청사항 
