@@ -21,7 +21,7 @@
 ![](https://0makes0.com/images/arko.png)  
 
 
- - <img width=150 src="https://0makes0.com/images/zeromakeszero-logo.svg">
+ - <a href="https://0makes0.com"><img width=150 src="https://0makes0.com/images/zeromakeszero-logo.svg"></a>
  
 ---
 📌 연구원 질문 및 요청사항 
