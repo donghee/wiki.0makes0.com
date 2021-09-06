@@ -33,11 +33,12 @@
 
 ## 위키 서버
 
-| 설치 | 내부 시스템 구성 | 전원: 태양광충전기, 배터리 | 서버: 라즈베리파이 + 와이파이 어댑터  |
+| 설치 | 내부 시스템 구성 | 전원: 태양광충전기, 배터리 | 서버: 라즈베리파이, 와이파이 어댑터  |
 | :---:         |     :---:      |          :---: | :---: |
 | ![](./uploads/photo1630906705.jpeg)   | ![](./uploads/photo1630906705(3).jpeg)      | ![](./uploads/photo1630906705(2).jpeg)     | ![](./uploads/photo1630906705(1).jpeg)  |
  
- 
+설치위치: 위도38.23094, 경도127.32023
+
 ***
 * https://wiki.0makes0.com/docx/book.docx 워드 버전 
 * https://wiki.0makes0.com/epub/book.epub 전자책 epub 버전 
