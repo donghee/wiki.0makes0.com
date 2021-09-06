@@ -352,10 +352,19 @@ table td {
 }
 
 :root {
-  --blue: #1e90ff;
-  --white: #ffffff;
+  --blue: #f0f8ff;
+  --battery: 10%;
 }
 
 body {
   background-color: var(--blue);
+}
+
+#battery {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    background: #fff5d1;
+    height: var(--battery);
 }
