@@ -37,7 +37,7 @@
 | :---:         |     :---:      |          :---: | :---: |
 | ![](./uploads/photo1630906705.jpeg)   | ![](./uploads/photo1630906705(3).jpeg)      | ![](./uploads/photo1630906705(2).jpeg)     | ![](./uploads/photo1630906705(1).jpeg)  |
  
-설치 위치: 위도38.23094, 경도127.32023
+설치 위치: 위도 38.23094, 경도 127.32023
 
 ***
 * https://wiki.0makes0.com/docx/book.docx 워드 버전 
