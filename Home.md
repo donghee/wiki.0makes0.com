@@ -33,7 +33,8 @@
 
 ## 서버
 
-|/uploads/photo1630906705.jpeg |/uploads/photo1630906705(1).jpeg |
+|![](./uploads/photo1630906705.jpeg) | ![](./uploads/photo1630906705(1).jpeg)|
+| ![](./uploads/photo1630906705.jpeg) | ![](./uploads/photo1630906705.jpeg) |
 
 
 ***
