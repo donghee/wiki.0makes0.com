@@ -31,6 +31,11 @@
 
 <a href="https://0makes0.com"><img width=150 src="https://0makes0.com/images/zeromakeszero-logo.svg"></a> 
 
+## 서버
+
+|/uploads/photo1630906705.jpeg |/uploads/photo1630906705(1).jpeg |
+
+
 ***
 * https://wiki.0makes0.com/docx/book.docx 워드 버전 
 * https://wiki.0makes0.com/epub/book.epub 전자책 epub 버전 
