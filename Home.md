@@ -33,13 +33,10 @@
 
 ## 서버
 
-|| ![](./uploads/photo1630906705(1).jpeg)|
-| ![](./uploads/photo1630906705.jpeg) | ![](./uploads/photo1630906705.jpeg) |
-
-| Left-aligned | Center-aligned | Right-aligned |Right-aligned |
+| 설치 | 구성1 | 구성1 | 구성1 |
 | :---         |     :---:      |          ---: | ---: |
-| ![](./uploads/photo1630906705.jpeg)   | ![](./uploads/photo1630906705.jpeg)      | ![](./uploads/photo1630906705.jpeg)     | ![](./uploads/photo1630906705.jpeg)  |
-| 서버 설치    | 서버 구성       | git diff      |git diff      |
+| ![](./uploads/photo1630906705.jpeg)   | ![](./uploads/photo1630906705(1).jpeg)      | ![](./uploads/photo1630906705(2).jpeg)     | ![](./uploads/photo1630906705(3).jpeg)  |
+ 
 ***
 * https://wiki.0makes0.com/docx/book.docx 워드 버전 
 * https://wiki.0makes0.com/epub/book.epub 전자책 epub 버전 
