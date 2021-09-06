@@ -33,9 +33,9 @@
 
 ## 서버
 
-| 설치 | 구성1 | 구성1 | 구성1 |
+| 설치 | 시스템 구성 | 라즈베리파이 | 전원: 태양광충전기, 배터리 |
 | :---         |     :---:      |          ---: | ---: |
-| ![](./uploads/photo1630906705.jpeg)   | ![](./uploads/photo1630906705(1).jpeg)      | ![](./uploads/photo1630906705(2).jpeg)     | ![](./uploads/photo1630906705(3).jpeg)  |
+| ![](./uploads/photo1630906705.jpeg)   | ![](./uploads/photo1630906705(3).jpeg)      | ![](./uploads/photo1630906705(2).jpeg)     | ![](./uploads/photo1630906705(1).jpeg)  |
  
 ***
 * https://wiki.0makes0.com/docx/book.docx 워드 버전 
