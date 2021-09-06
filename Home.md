@@ -31,7 +31,7 @@
 
 <a href="https://0makes0.com"><img width=150 src="https://0makes0.com/images/zeromakeszero-logo.svg"></a> 
 
-## 서버
+## 위키 서버
 
 | 설치 | 내부 시스템 구성 | 전원: 태양광충전기, 배터리 | 서버: 라즈베리파이 + 와이파이 어댑터  |
 | :---:         |     :---:      |          :---: | :---: |
