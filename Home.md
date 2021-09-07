@@ -47,4 +47,3 @@
 * https://wiki.0makes0.com/pdf/book.pdf pdf 버전 
 * https://wiki.0makes0.com/book Gitbook 형식
 * https://wiki.0makes0.com/html/book.html 웹페이지 버전
- 
