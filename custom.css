@@ -353,7 +353,7 @@ table td {
 
 :root {
   --blue: #f0f8ff;
-  --battery: 10%;
+  --battery: 0%;
 }
 
 body {
@@ -367,4 +367,5 @@ body {
     width: 100vw;
     background: #fff5d1;
     height: var(--battery);
+    z-index: -1;
 }
