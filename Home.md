@@ -42,8 +42,5 @@
 설치 위치: 위도 38.23094, 경도 127.32023 
 
 ***
-* https://wiki.0makes0.com/docx/book.docx 워드 버전 
-* https://wiki.0makes0.com/epub/book.epub 전자책 epub 버전 
-* https://wiki.0makes0.com/pdf/book.pdf pdf 버전 
-* https://wiki.0makes0.com/book Gitbook 형식
-* https://wiki.0makes0.com/html/book.html 웹페이지 버전
+
+* https://wiki.0makes0.com/book Gitbook 
