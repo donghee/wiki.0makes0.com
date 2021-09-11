@@ -18,7 +18,7 @@
  5. 기존의 페이지가 아닌 새로운 페이지를 만들 수도 있습니다. '새 페이지' 를 누르거나 혹은 '페이지 목록'을 누르고 'NEW'를 눌러 페이지를 만들어 주세요. 만드신 페이지 제목을 https://wiki.0makes0.com/ 뒤에 붙이면 새로운 페이지가 생성됩니다. 예) 만든 페이지 이름이 monday 라면 https://wiki.0makes0.com/monday 가 페이지 주소가 됩니다.
  6. 새로 만든 페이지 및 여러 링크를 걸기 위해서는 h3옆에 링크 표시를 누르고 웹 주소를 적으면 됩니다.
  7. 저장 후 검토 없이 바로 업로드 되기 때문에, 신중하게 작성부탁드립니다! 저장을 누르기 전에 Preview를 누르면 미리보기가 가능합니다. 확인 후 저장해주세요.
- 8. 그 외 위키의 자세한 사용법은 [사용법](사용법) 페이지를 참고하시거나 zeromakeszero@gmail.com 으로 문의주세요.
+ 8. 그 외 위키의 자세한 사용법은 [[나무위키 마크다운](https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4)] 페이지를 참고하시거나 zeromakeszero@gmail.com 으로 문의주세요.
  9. 후반부에 함께 위키를 고치고 다듬는 워크숍을 진행합니다. 공지는 [@zeromakeszero](https://www.instagram.com/zeromakeszero/) 와 [@arko_art_center](https://instagram.com/arko_art_center) 에 게재될 예정입니다.
 
 ### 위키 소개
