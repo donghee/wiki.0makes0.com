@@ -10,7 +10,7 @@
  3. 잘못 고쳤거나 이전 내용으로 돌아가려면, '역사' 버튼을 눌러서 이전 글을 찾아 복사해서 다시 붙여넣고 저장(save)을 눌러주세요.
  4. 저장 후 검토 없이 바로 업로드 되기 때문에, 신중하게 작성부탁드립니다! 저장을 누르기 전에 Preview를 누르면 미리보기가 가능합니다. 확인 후 저장해주세요.
  5. 그 외 위키의 자세한 사용법은 [사용법](사용법) 페이지를 참고하시거나 zeromakeszero@gmail.com 으로 문의주세요.
- 6. 후반부에 함께 위키를 고치고 다듬는 워크숍을 진행합니다. 공지는 @zeromakeszero 와 @arko_art_center 에 게재될 예정입니다.
+ 6. 후반부에 함께 위키를 고치고 다듬는 워크숍을 진행합니다. 공지는 [@zeromakeszero](https://www.instagram.com/zeromakeszero/) 와 [@arko_art_center](https://instagram.com/arko_art_center) 에 게재될 예정입니다.
 
 ## 주요 페이지 
 * [들어가며](Introduce)
