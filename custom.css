@@ -375,7 +375,7 @@ body {
     left: 0;
     width: 100vw;
     /*background: #fce7f3;*/
-    background: #fce7f311;
+    background: #fce7f3;
     height: var(--battery);
     z-index: -1;
 }
