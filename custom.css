@@ -135,6 +135,10 @@ hr {
     background-color: #ff00ff33;
 }
 
+.markdown-body hr {
+    background-color: #ff00ff33;
+}
+
 pre,
 code,
 kbd,
