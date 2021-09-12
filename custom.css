@@ -374,7 +374,8 @@ body {
     bottom: 0;
     left: 0;
     width: 100vw;
-    background: #ff00ff11;
+    /*background: #fce7f3;*/
+    background: #fce7f311;
     height: var(--battery);
     z-index: -1;
 }
