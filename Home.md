@@ -32,7 +32,7 @@
 
 4. 저장 후 검토 없이 바로 업로드 되기 때문에, 신중하게 작성부탁드립니다! 저장을 누르기 전에 Preview를 누르면 미리보기가 가능합니다. 확인 후 저장해주세요.
  
-5. 그 외 위키의 자세한 사용법은 [[나무위키 마크다운](https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4)] 페이지를 참고하시거나 zeromakeszero@gmail.com 으로 문의주세요.
+5. 그 외 위키의 자세한 사용법은 [나무위키 마크다운](https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4) 페이지를 참고하시거나 zeromakeszero@gmail.com 으로 문의주세요.
 
 
 ***
