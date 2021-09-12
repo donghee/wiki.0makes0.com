@@ -29,13 +29,20 @@ body {
     line-height: 2.0rem;
 }
 
+a {
+    color: #000;
+    text-decoration: none;
+}
+
 .markdown-body a {
-    color: #7C0CF2;
+   /* color: #7C0CF2; */
+    color: #FF00FF;
     text-decoration: none;
 }
 
 .markdown-body a:visited {
-    color: #7C0CF2;
+    /* color: #7C0CF2; */
+    color: #FF00FF;
 }
 
 a:hover {
