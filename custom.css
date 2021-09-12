@@ -132,11 +132,11 @@ hr {
     border-bottom: 1px solid #eee;
     margin: 1em 0;
     padding: 0;
-    background-color: #ff00ff33;
+    background-color: #ff00ff22;
 }
 
 .markdown-body hr {
-    background-color: #ff00ff20;
+    background-color: #ff00ff22;
 }
 
 pre,
