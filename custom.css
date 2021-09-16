@@ -36,21 +36,23 @@ a {
 
 .markdown-body a {
    /* color: #7C0CF2; */
-    color: #FF00FF;
+    color: #FF44FF99;
     text-decoration: none;
 }
 
 .markdown-body a:visited {
     /* color: #7C0CF2; */
-    color: #FF00FF;
+    color: #FF44FF99;
 }
 
 a:hover {
-    color: #06e;
+    color: #ff44ff;
+    text-decoration: underline;
 }
 
 a:active {
     color: #faa700;
+    text-decoration: underline;
 }
 
 a:focus {
@@ -294,7 +296,7 @@ table td {
 
 @media only screen and (min-width: 768px) {
     body {
-        font-size: 16px;
+        font-size: 14px;
     }
 }
 
