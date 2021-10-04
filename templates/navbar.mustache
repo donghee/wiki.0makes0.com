@@ -1,0 +1,107 @@
+<nav class="TableObject actions pt-4 px-2 px-lg-0 overflow-x-scroll">
+  <div class="TableObject-item hide-lg hide-xl">
+    {{>mobilenav}}
+  </div>
+
+  <div class="TableObject-item hide-sm hide-md">
+    <a class="font-semibold py-2 pr-4 hover:text-black"
+      id="minibutton-home" href="{{page_route}}">
+      홈 
+    </a>
+  </div>
+
+  <div
+    class="TableObject-item TableObject-item--primary px-2 rounded-full"
+    {{^search}}style="visibility:hidden"{{/search}}
+  >
+    {{>searchbar}}
+  </div>
+
+  <div class="TableObject-item hide-sm hide-md">
+    <div class="BtnGroup d-flex">
+      {{#overview}}
+        <a
+          class="font-semibold py-2 px-3 pl-5 hover:text-black"
+          href="{{overview_path}}"
+          id="minibutton-overview"
+        >
+          페이지 목록
+        </a>
+      {{/overview}}
+
+      {{#latest_changes}}
+        <a
+          class="font-semibold py-2 px-3 hover:text-black"
+          href="{{latest_changes_path}}"
+          id="minibutton-latest-changes"
+        >
+          최근 변경
+        </a>
+      {{/latest_changes}}
+    </div>
+  </div>
+
+  <div class="TableObject-item px-2">
+    <div class="BtnGroup d-flex">
+      {{#history}}
+        <a
+          class="font-semibold py-2 px-3 hidden md:inline hover:text-black" 
+          href="{{history_path}}/{{escaped_url_path}}"
+          id="minibutton-history"
+        >
+          역사
+        </a>
+      {{/history}}
+
+      {{#allow_editing}}
+        {{#allow_uploads}}
+          <button
+            class="bg-transparent border-0 font-semibold py-2 px-3 hidden md:inline hover:underline hover:text-black
+              minibutton-upload-page" 
+          >
+            파일 업로드
+          </button>
+        {{/allow_uploads}}
+
+        {{#editable}}
+          <button
+            class="bg-transparent border-0 font-semibold py-2 px-3 hidden md:inline hover:underline hover:text-black
+              minibutton-rename-page"
+          >
+            이름 변경
+          </button>
+          <a
+            class="bg-gray-300 hover:bg-gray-300 text-black font-semibold px-3 rounded inline items-center hover:text-black"
+            href="{{edit_path}}/{{escaped_url_path}}"
+            id="minibutton-edit-page"
+            style="padding: 0.50rem !important; padding-left: 1rem !important; padding-right: 1rem !important;"
+          >
+            편집
+          </a>
+        {{/editable}}
+      {{/allow_editing}}
+    </div>
+  </div>
+
+  {{#allow_editing}}
+    {{#editable}}
+      <div class="TableObject-item">
+        <a 
+          class="ml-2 bg-pink-400 text-white font-semibold border border-pink-600 px-3 rounded 
+          minibutton-new-page" href="#" style="padding: 0.70rem !important;">
+          새 페이지 
+        </a>
+      </div>
+    {{/editable}}
+
+    {{^editable}}
+      {{#newable}}
+        <div class="TableObject-item">
+          <a class="btn btn-primary btn-sm minibutton-new-page" href="#">
+            New
+          </a>
+        </div>
+      {{/newable}}
+    {{/editable}}
+  {{/allow_editing}}
+</nav>
