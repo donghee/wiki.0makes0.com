@@ -1,0 +1,14 @@
+---
+title: "비거니즘 전시 매뉴얼"
+author: "저자이름"
+rights: MIT License
+lang: en-US
+tags: [vegan, manual]
+abstract: |
+  Your summary.
+mainfont: THEJung130
+
+# Filter preferences:
+# - pandoc-crossref
+linkReferences: true
+---
