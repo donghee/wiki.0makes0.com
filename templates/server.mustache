@@ -6,6 +6,7 @@
     <span>배터리 전압: </span><span id="voltage"></span> <span>V</span><br/>
     <span>전기 사용: </span><span id="powerConsumption"></span> <span>Watt</span><br/>
     <span>서버 시간: </span><span id="date"></span><br/>
+    <span>가동 시간: </span><span id="uptime"></span><br/>
     <span>날씨(구름량): </span><span id="forecast"></span><br/>
     <span id="address"> 위치: 위도 37.493423, 경도 126.834054</span><br/>
   </div>
@@ -42,6 +43,7 @@ xhr.onload = function () {
             document.getElementById('voltage').innerText = res.voltage;
             document.getElementById('powerConsumption').innerText = res.powerConsumption;
             document.getElementById('date').innerText = res.date;
+            document.getElementById('uptime').innerText = res.uptime;
             document.getElementById('forecast').innerText = res.forecast;
             var r = document.querySelector(':root');
             r.style.setProperty('--battery', res.battery.toString() + '%');
