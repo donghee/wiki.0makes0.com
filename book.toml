@@ -9,13 +9,14 @@ title = "비거니즘 전시 매뉴얼 ver.1"
 default-theme = "vegan"
 #git-repository-url = "https://github.com/donghee/zeromakeszero/tree/master/wiki"
 #edit-url-template = "https://github.com/donghee/zeromakeszero/edit/master/wiki/{path}"
+additional-js = ["chapters/assets/fzf.umd.js", "chapters/assets/elasticlunr.js"]
 
 [output.html.playground]
 editable = true
 line-numbers = true
 
 [output.html.search]
-enable = false
+enable = true
 #limit-results = 20
 #use-boolean-and = true
 #boost-title = 2
@@ -28,4 +29,3 @@ enable = false
 [preprocessor.toc]
 marker = "[[_TOC_]]"
 max-level = 3
-
