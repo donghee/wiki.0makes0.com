@@ -1,14 +1,14 @@
 #while true; do echo -e "Battery: 13.2v 86% \n Power Consumption: 1.2W \n Date: $(date) \n Uptime: $(uptime)\n\n"> /tmp/index.html; sleep 1; done
 
 while true; do 
- SENSORS=(`python ~/ina226.py`)
+ SENSORS=(`python2 ~/ina226.py`)
 
  CURRENT=${SENSORS[0]}  
  VOLTAGE=${SENSORS[1]}  
  POWER=${SENSORS[2]}  
  BATTERY=${SENSORS[3]}  
 
- WEATHERS=(`python ~/weather.py`)
+ WEATHERS=(`python2 ~/weather.py`)
  TEMPERATURE=${WEATHERS[0]}  
  FORECAST=${WEATHERS[1]}  
  LATITUDE=${WEATHERS[2]}  
